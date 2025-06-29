@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @ctoriola
-- 👀 I’m interested in lotsa stuff. Programming, Reading, Listening to music
-- 🌱 I’m currently learning Flutter. Hoping to be a pro soon
-- 💞️ I’m looking to collaborate on anything, really. I'm down for it
-- 📫 How to reach me. You can reach me through my email at toriola333@gmail.com.
-- Check out my portfolio, why dont'cha: https://charlestoriola.netlify.app/
+👋 Hi, I'm Charles Demilade Toriola
+Creative Developer • React & Node Specialist
+
+💻 Core Expertise
+Building cloud-native applications with React frontends, Node.js/Flask backends & Docker deployments on Railway. 
+
+🎨 Design Integration
+Leveraging Figma, Adobe Creative Suite, and Canva to create modern, aesthetic interfaces.
+
+🌱 Currently Leveling Up
+Deep-diving into Docker
+
+💞️ Collaboration Interests
+Open to impactful projects involving:
+
+- React/Node performance optimization
+
+- Design system development
+
+- Creative tech experiments
+- 
+
+📫 Professional Connect
+→ Email: toriola333@gmail.com
+→ Portfolio: charlestoriola.netlify.app
+→ Code Conversations: Always open to tech discussions!
 
 <!---
 ctoriola/ctoriola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
