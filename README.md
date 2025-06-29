@@ -18,7 +18,6 @@ Open to impactful projects involving:
 - Design system development
 
 - Creative tech experiments
-- 
 
 📫 Professional Connect
 → Email: toriola333@gmail.com
