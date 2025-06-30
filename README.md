@@ -1,16 +1,20 @@
-👋 Hi, I'm Charles Demilade Toriola
+👋 Hi, I'm Charles Demilade Toriola -
 Creative Developer • React & Node Specialist
 
 💻 Core Expertise
+
 Building cloud-native applications with React frontends, Node.js/Flask backends & Docker deployments on Railway. 
 
 🎨 Design Integration
+
 Leveraging Figma, Adobe Creative Suite, and Canva to create modern, aesthetic interfaces.
 
 🌱 Currently Leveling Up
+
 Deep-diving into Docker
 
 💞️ Collaboration Interests
+
 Open to impactful projects involving:
 
 - React/Node performance optimization
