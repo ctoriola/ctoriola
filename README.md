@@ -1,5 +1,5 @@
 👋 Hi, I'm Charles Demilade Toriola -
-Creative Developer • React & Node Specialist
+Creative Developer • React & Flask Specialist
 
 💻 Core Expertise
 
@@ -25,7 +25,7 @@ Open to impactful projects involving:
 
 📫 Professional Connect
 → Email: toriola333@gmail.com
-→ Portfolio: charlestoriola.netlify.app
+→ Portfolio: charlestoriola.vercel.app
 → Code Conversations: Always open to tech discussions!
 
 <!---
